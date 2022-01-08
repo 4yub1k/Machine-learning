@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-#Predict Co2Emission using enginesize.
+#Predict Co2Emission using 'ENGINESIZE','CYLINDERS','FUELCONSUMPTION_CITY','FUELCONSUMPTION_HWY','FUELCONSUMPTION_COMB'
 
 """Read the csv file"""
 df = pd.read_csv("FuelConsumptionCo2.csv", sep=",")
