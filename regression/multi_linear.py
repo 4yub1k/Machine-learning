@@ -42,7 +42,7 @@ train_y=np.asanyarray(train[['CO2EMISSIONS']])
 
 """Fit line (intercept & slope/coefficients)"""
 linear.fit(train_x,train_y)
-print(f'intercept : {linear.intercept_[0]}, coefficients: {linear.coef_[0][0]}')
+print(f'intercept : {linear.intercept_[0]}, coefficients: {linear.coef_[0]}')
 
 
 """Evaluation"""
