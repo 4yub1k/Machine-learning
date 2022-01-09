@@ -1,11 +1,20 @@
 # Machine-learning
-**Polynomial Regression : (poly_reg.py)**\
-<img src="https://user-images.githubusercontent.com/45902447/148652849-fb701427-6449-4ae1-9809-1dfb5b7382f9.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/45902447/148652900-b4b70808-8548-45b8-ab94-1c655dc3bf88.png" width="300" height="300">\
+**Polynomial Regression : (poly_reg.py)**
+
+<img src="https://user-images.githubusercontent.com/45902447/148652849-fb701427-6449-4ae1-9809-1dfb5b7382f9.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/45902447/148652900-b4b70808-8548-45b8-ab94-1c655dc3bf88.png" width="300" height="300">
 
 
 **Evaluation :**
 
 ![eval_poly](https://user-images.githubusercontent.com/45902447/148652871-855f6725-4c21-407d-b7e2-e82c813514da.PNG)
+
+**Non Linear Regression : (non_linear.py)**
+
+<img src="https://user-images.githubusercontent.com/45902447/148679307-0d8d94eb-a007-43b7-acae-56d18876fcdf.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/45902447/148679334-e4f6bdae-a82a-4ef5-8d26-6c6f6aa67f51.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/45902447/148679373-cae919f3-fa7a-4d9f-aa8e-4b86e601dd41.png" width="300" height="300">
+
+**Evaluation :**
+
+![image](https://user-images.githubusercontent.com/45902447/148679446-47d4dee9-824e-4110-9dbf-8dbfc660e4b7.png)
 
 # Equations for Non Linear Regression:
   ```
