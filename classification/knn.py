@@ -77,7 +77,7 @@ for k in range(1,20):
     k_values[k]=metrics.accuracy_score(test_y, test_pred_y) #Test set accuracy
 k=max(k_values,key=k_values.get) #get key of max value
 print("\n",k_values,"\n")
-print("NOTE : very high value of K will lead to OverFit Generalized")
+print("NOTE : very high value of K will lead to Over Generalized")
 print("Best value for K : ",k,"\nTest set accuracy : ",k_values[k])
 #print("Best value of K : ",max(k_values.values()))
 
